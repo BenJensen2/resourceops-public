@@ -1,6 +1,7 @@
 title: ResourceOps
 description: Public documents for ResourceOps — a personal household finance app.
 theme: jekyll-theme-minimal
+permalink: pretty
 plugins:
   - jekyll-relative-links
 relative_links:
