@@ -12,6 +12,7 @@ documents.
 ## Documents
 
 - [Privacy policy](privacy)
+- [Access controls policy](access-controls)
 
 ## Contact
 
