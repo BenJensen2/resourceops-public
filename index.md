@@ -13,6 +13,7 @@ documents.
 
 - [Privacy policy](privacy)
 - [Access controls policy](access-controls)
+- [Security policy](security-policy)
 
 ## Contact
 
